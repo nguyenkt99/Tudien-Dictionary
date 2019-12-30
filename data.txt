@@ -1,0 +1,91 @@
+accept|Dong tu|chap nhan|.|He should accept that it's over|We have to accept that things change|Did he accept the money?|||
+accident|Danh tu|tai nan|dip may|tinh co|.|It was an accident|I only found it by accident||||
+account|Danh tu|tai khoan|.|open an account with a bank|||||
+activate|Dong tu|kich hoat|.|Windows is activated|||||
+add|Dong tu|them|.|We'll have to add more|Add 9 to the total||||
+administrator|Danh tu|nguoi quan li|.|Run as administrator|||||
+apple|Danh tu|qua tao|.|That is an apple tree|||||
+believe|Dong tu|tin|tin tuong|.|She didn't believe me|||||
+big|Tinh tu|to|lon|.|He's a big man|That jacket looks a bit big for you||||
+black|Tinh tu|den|.|I drink black drink coffee|||||
+blue|Tinh tu|xanh lam|.|A blue shirt|||||
+buy|Dong tu|mua|.|She is saving money to buy a new house|I'll buy off the investigators||||
+browser|Danh tu|trinh duyet|.|I use Chrome browser|||||
+call|Dong tu|keu|goi|.|His name's Hiroshi but everyone calls him Hiro|I'll call a taxi for you|I'll call again later|||
+care|Dong tu|cham soc|quan tam|.|I don't care what she says|||||
+check|Dong tu|kiem tra|.|Check for updates|I just need to check my email|Check your work before handing it in|||
+clean|Tinh tu|sach|sach se|trong sach|.|Cats are clean animals|She has a clean record||||
+close|Dong tu|dong|dong cua|.|Close a door|The shops close at 5:30||||
+collect|Dong tu|su tam|gom gop|thu gom|.|She collects dolls.|||||
+compare|Dong tu|so sanh|.|You're trying to compare apples and oranges.|||||
+computer|Danh tu|may tinh|.|He's working on his computer|||||
+control|Danh tu|su kiem soat|bo dieu chinh|quyen luc|.|The volume control of a radio|They were totally out of control||||
+dark|Tinh tu|toi|bong toi|.|A dark street|||||
+data|Danh tu|du lieu|.|Data has been deleted|||||
+delete|Dong tu|xoa|gach bo|.|Delete his name frome the list of member|||||
+download|Dong tu|tai xuong|.|Click here to download|||||
+drive|Dong tu|lai xe|.|She drives carefully|||||
+easy|Tinh tu|de|de dang|thoai mai|.|She's very easy to talk to|The place easy to reach||||
+exam|Danh tu|ki thi|.|She passed her exam|||||
+example|Danh tu|vi du|.|See example below|It's a bad example to kids||||
+face|Danh tu|mat|be mat|.|Go and wash your face|The face of the earth||||
+family|Danh tu|gia dinh|.|Almost every family in the county owns a television|A family of four|He's a friend of the family|||
+free|Tinh tu|mien phi|tu do|thong suot|.|I got some free cinema tickets|This is a free country|Is the way free?|||
+freetime|Danh tu|thoi gian ranh|.||||||
+fresh|Tinh tu|tuoi|.|Fresh flowers|||||
+full|Tinh tu|day|.|My suitcase was full of books|||||
+give|Dong tu|cho|dua|.|Give your mother the letter|Did you give the waiter a tip?|I'll give you ten minutes to prepare your answer|||
+great|Tinh tu|tuyet|.|What a great party!|||||
+green|Tinh tu|xanh la cay|.|Apples too green to eat|||||
+happen|Xay ra|xay den|.|The same thing happened to me|||||
+happy|Tinh tu|vui ve|hanh phuc|.|He makes me happy|She looks so happy||||
+have|Dong tu|co|.|Have you got a job yet?|Let's have a party|I don't have that much money on me|||
+headache|Tinh tu|dau dau|.|I often have headaches|||||
+hell|Danh tu|dia nguc|do chet tiet|.|Whoe the hell is he?|||||
+help|Dong tu|giup|giup do|cuu giup|.|May I help you?|||||
+home|Danh tu|nha|.|My home.|||||
+internet|Danh tu|internet|.|I looked it up on the Internet|||||
+jacket|Danh tu|ao vec tong|ao vec nu|bao giu nhiet|.|I felt a bit chilly so I put on a jacket.|||||
+job|Danh tu|viec lam|cong viec|.|She's applied for a job with an insurance company.|||||
+karate|Danh tu|mon vo karate|.|There is also full contact tae kwon do and karate.|||||
+keyboard|Danh tu|ban phim|ban chu|.|QWERTY keyboard|||||
+lab|Danh tu|phong thi nghiem|.|I'll meet you outside the science lab|I have a lab||||
+love|Danh tu|tinh yeu|tinh thuong|long yeu|.|love of one's country|first love|the love of sb's life|||
+manage|Dong tu|quan ly|dieu hanh|trong nom|.|He manage the finances here|Can you manage childrend well?|I manage a shop|||
+momery|Danh tu|tri nho|ky uc|tuong nho|bo nho|.|He has a good memory far dates|Out of memory||||
+money|Danh tu|tien|tien te|.|I have money in one's pocket|||||
+music|Danh tu|nhac|am nhac|.|I like listen to music|||||
+name|Danh tu|ten goi|.|We finally agreed on the name Luca for our son.|||||
+new|Tinh tu|moi|.|This is a new house|||||
+night|Danh tu|buoi dem|.|The snow came down during the night.|||||
+off|Dong tu|tat|.|He drove off at the most incredible speed.|||||
+open|Dong tu|mo|mo cua|.|Open your book|Open the door|Banks don't open on Sunday|||
+packet|Danh tu|goi do|buu kien|.|That house must have cost a packet!|||||
+play|Dong tu|choi|no dua|dua gion|.|I play football|to play the best team|let's play that we are soldiers|to play a match|to play the piano|
+problem|Danh tu|van de|bai toan|.|No problem!|||||
+quiet|Tinh tu|yen tinh|thanh binh|em a|.|They lead a quiet life|||||
+quit|Dong tu|roi khoi|.|He has decided to quit as manager of the team|Quit work for five minutes|She quit school at 16|||
+real|Tinh tu|thuc|thuc te|thuc su|that|.|The real value of things|real gold||||
+rice|Danh tu|lua|gao|com|.|A grain of rice|brown rice||||
+rich|Tinh tu|giau co|.|America is a rich country|Orangee are rich in vitamin C||||
+safe|Tinh tu|an toan|dam bao|.|You'll be safe here|It's not safe to go out at night|Is that ladder safe?|||
+setting|Danh tu|cai dat|thiet lap|.|To change the size of the font, go to Settings|||||
+small|Tinh tu|nho|be|.|That jacket's too small for you|I live in a small town||||
+software|Danh tu|phan mem|.|The software industry|Software Engineer|How to install software in ubuntu?|||
+special|Tinh tu|dac biet|.|She's a very special friend|||||
+topic|Danh tu|chu de|.|Let's get back on topic|Keep the text short and on topic||||
+translate|Dong tu|dich|.|Translate an English book into Vietnamese|||||
+university|Danh tu|truong dai hoc|.|She hopes to go to university next year|||||
+upload|Dong tu|tai len|.|This file can't not be uploaded|||||
+version|Danh tu|phien ban|.|His version of events just doesn't fit with the facts.|||||
+village|Danh tu|lang que|que huong|.|Our farm is a few miles north of the village.|||||
+visit|Dong tu|di tham|thanh tra|.|There are several places of interest to visit in the area.|||||
+walk|Dong tu|di|di bo|cuoc bo|dan di|dat di|di dao|.|I walk to school every day|We walked slowly home|I'll walk you home|He walked her to her car||
+water|Danh tu|nuoc|.|Fish live in the water|||||
+wonderful|Tinh tu|ky dieu|tuyet voi|.|The weather is wonderful|||||
+write|Dong tu|viet|.|She writes for a weekly journal|||||
+xmas|Danh tu|giang sinh|.||||||
+year|Danh tu|nam|.|First year student|I worked for this firm four years||||
+you|Dai tu|ban|anh|chi|ong|ba|ngai|cac ban|cac anh|cac chi|cac ngai|cac may|cac nguoi|.|I love you|How are you?|Do you speak Vietnamese?|Where do you live?|You don't understand me|
+zombie|Danh tu|thay ma|.||||||
+zoo|Danh tu|so thu|vuon thu|.|How about a trip to the zoo this afternoon?|||||
